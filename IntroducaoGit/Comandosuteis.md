@@ -18,6 +18,14 @@
 
 -**rmdir** = + nome da pasta usando duas flags **/S** **/Q**
 
+-**git  add .** adiciona arquivos para serem enviados 
+
+-**git commit -m** adiciona comentários antes de serem enviados ao git
+
+-**git push ** empurra o arquivo ao servidor do git
+
+
+
 
 
 
